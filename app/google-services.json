@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66418110108",
+    "project_id": "pishingprofesor",
+    "storage_bucket": "pishingprofesor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66418110108:android:26fd1ed9938abb4f354759",
+        "android_client_info": {
+          "package_name": "com.example.profesoresunam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66418110108-8rf6dn13vefkttf6l8aub70id4np2o2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.profesoresunam",
+            "certificate_hash": "ad63eec7fb07fd508597db14f19e509e0cb3b6f4"
+          }
+        },
+        {
+          "client_id": "66418110108-0ihilf6acv5uuhfpsb5stf5kacrdd41e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhNVpRVKXAjgKAn6y8jHmW38XI_POGuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66418110108-0ihilf6acv5uuhfpsb5stf5kacrdd41e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
